@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Works}{}% 2
+\BOOKMARK [1][-]{section.3}{Action Recognition Framework}{}% 3
+\BOOKMARK [1][-]{section.4}{Proposed Method}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{2D Motion Representations}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Dense trajectories}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Framework Settings}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{MSR Action 3D Dataset}{section.5}% 9
+\BOOKMARK [3][-]{subsubsection.5.2.1}{A Brief Introduction}{subsection.5.2}% 10
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Recognize Actions from Single-View}{subsection.5.2}% 11
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Compensate Information from Other Views}{subsection.5.2}% 12
+\BOOKMARK [3][-]{subsubsection.5.2.4}{The Role of Views}{subsection.5.2}% 13
+\BOOKMARK [3][-]{subsubsection.5.2.5}{Comparison with the state-of-the-art}{subsection.5.2}% 14
+\BOOKMARK [2][-]{subsection.5.3}{MSR Gesture 3D Dataset}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.4}{3D Action Pairs Dataset}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 17
+\BOOKMARK [1][-]{section.7}{Conclusions}{}% 18
