@@ -155,7 +155,7 @@ In this paper, we investigate to exploit the approach on depth video.
 %\paragraph{Proposal, Idea and Steps}
 The key idea of the approach is to capture discriminative trajectories in video.
 Therefore, in order to effectively exploit this approach on depth video, it is necessary to extract the trajectories from depth video.
-To do that, a straightforward method is to consider depth value as intensity value and adapts extracting dense trajectories on the 2D transformed video.
+To do that, a straightforward method is to consider depth value as intensity value and extract trajectories on the 2D motion representation.
 Unfortunately, the method will lead to inherent cases of the trajectory-based approaches, it is confused to identify actions contain similar motions.
 For example, \textit{forward punch} and \textit{hammer} may be confused actions, if we view them from front, since they contain similar movements respectively: ``lift arm up'' and ``stretch out''.
 Obviously, it is difficult to distinguish such actions with data contains less discriminative information as depth data.
